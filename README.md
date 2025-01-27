@@ -6,8 +6,8 @@
 - 🚀 Contributing to projects that enhance quality of life through innovative solutions.
 
 ## 🔧 Technologies
-- **Programming Languages:** Java, Python, R, C, SQL.
-- **Tools:** Git, MATLAB, Visual Studio Code.
+- **Programming Languages:** Java, Python, R, C, MATLAB, SQL.
+- **Tools:** Git, Visual Studio Code.
 
 ## 🌟 Highlighted Projects
 ### **Wrist kinematic analysis.A KINOVEA evaluation with inertial sensors**
