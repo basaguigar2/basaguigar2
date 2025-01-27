@@ -1,7 +1,7 @@
 # Hello, I'm Basilio! 
 
 ## 👨‍💻 About Me
-- 🎓 Biomedical Engineering student at CEU San Pablo.
+- 💻 Biomedical Engineering.
 - 📚 Passionate about technology and programming in Java, C, R, and Python.
 - 🚀 Contributing to projects that enhance quality of life through innovative solutions.
 
