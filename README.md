@@ -17,7 +17,7 @@
   <img src="https://github.com/user-attachments/assets/16dd1849-fbba-4b1d-9b0a-cefbf2c07476" alt="Image2" width="400" height="300"/>
 </p>
 
-- [Muscle Sinergies analysis]((https://github.com/basaguigar2/NMF-project.git))
+- [Muscle Sinergies analysis](https://github.com/basaguigar2/NMF-project.git)
   - Java|Java Swing|Statistics|Healthtech.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b8ce7de5-8ddf-482a-bf8b-f13718439f46" alt="Image1" width="400" height="300"/>
