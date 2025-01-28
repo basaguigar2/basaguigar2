@@ -24,6 +24,13 @@
   <img src="https://github.com/user-attachments/assets/ded19350-c1ef-49a5-9cb6-7b8ebf1df81a" alt="Image2" width="400" height="300"/>
 </p>
 
+### **InhalApp**
+  - Java|SQL|JavaFX|Telemdicine
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/661d66a4-4645-4d7b-8ea7-07c3ca680e85" alt="Image1" width="400" height="300"/>
+    <img src="https://github.com/user-attachments/assets/f0ac01c1-a122-4406-a6ca-c94ee22da32d" alt="Image2" width="400" height="300"/>
+  </p>
+
 ## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/basilioaguirre/
 - Email: `basaguigar@gmail.com`
